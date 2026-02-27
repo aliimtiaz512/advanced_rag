@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#d4af37" # Gold color fitting for Roaring Twenties/Gatsby
+backgroundColor = "#FDFBF7" # Off-white page color
+secondaryBackgroundColor = "#F4F1E9" # Slightly darker beige
+textColor = "#2C2A29" # Soft black/dark brown for readable text
+font = "serif" # Classic novel font
+
+[server]
+# Stops the "source file changed" and "always rerun" popups
+runOnSave = false
+
+[client]
+# Minimal toolbar mode hides the hamburger menu but keeps the deploy button visible
+toolbarMode = "minimal"
