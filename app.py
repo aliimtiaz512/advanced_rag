@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Naive RAG Q&A",layout="wide")
+st.set_page_config(page_title="Advanced RAG Q&A",layout="wide")
 
 hide_st_style = """
             <style>
